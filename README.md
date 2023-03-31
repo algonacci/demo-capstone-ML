@@ -1,2 +1,2 @@
 # demo-capstone-ML
-For demo only
+For demo only.
